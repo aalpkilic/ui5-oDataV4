@@ -1,0 +1,15 @@
+{
+  "name": "odatav4",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ui5 serve --open 'index.html'"
+  },
+  "keywords": [],
+  "author": "aalpkilic",
+  "license": "ISC",
+  "description": "ODataV4",
+  "devDependencies": {
+    "@ui5/cli": "^3.7.3"
+  }
+}

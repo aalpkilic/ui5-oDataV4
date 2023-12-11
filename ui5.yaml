@@ -1,0 +1,13 @@
+specVersion: "3.1"
+metadata:
+  name: odatav4
+type: application
+framework:
+  name: OpenUI5
+  version: "1.120.1"
+  libraries:
+    - name: sap.m
+    - name: sap.f
+    - name: sap.ui.layout
+    - name: sap.ui.core
+    - name: themelib_sap_belize
