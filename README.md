@@ -26,16 +26,16 @@
   <h3 align="center">UI5 - oDataV4 Template </h3>
 
   <p align="center">
-    <strong> OData is a standard protocol for creating and consuming data by using simple HTTP and REST APIs for create, read, update, delete (CRUD) operations. 🧛</strong>
+    <strong> OData is a widely accepted protocol that enables the creation and consumption of data through simple HTTP and REST APIs. It is designed to facilitate CRUD (create, read, update, and delete) operations, making it easy to manage data and interact with it in a standardized way. With OData, developers can create robust and scalable applications that can seamlessly integrate with a wide range of data sources. 🧛</strong>
 
     
   <br />
   <br />
-  <a href="https://github.com/aalpkilic/ui5-dataBinding">View Demo</a>
+  <a href="https://github.com/aalpkilic/ui5-oDataV4">View Demo</a>
   ·
-  <a href="https://github.com/aalpkilic/ui5-dataBinding/issues">Report Bug</a>
+  <a href="https://github.com/aalpkilic/ui5-oDataV4/issues">Report Bug</a>
   ·
-  <a href="https://github.com/aalpkilic/ui5-dataBinding/issues">Request Feature</a>
+  <a href="https://github.com/aalpkilic/ui5-oDataV4/issues">Request Feature</a>
   </p>
 </div>
 
